@@ -1,0 +1,359 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="FUTEBOL 21/04",21h Universitario X Palmeiras HD
+http://189.90.127.42/ALL-FOX-SPORT-1-HD/tracks-v1a1/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="FUTEBOL 21/04",21h Independiente DV X Defensa y Justicia HD
+http://189.90.127.42/ALL-FOX-SPORT-2-HD/tracks-v1a1/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="FUTEBOL 21/04",21h Inter de Limeira X Ituano HD
+http://170.231.16.247:8888/SPORTV_HD/tracks-v1a1/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="FUTEBOL 21/04",21h30 Montevideo City X Bahia HD
+http://50.7.34.90:8090/live/CONMEBOL_TV2_HD?key=00000000000&mode=1&params=cb11a17bd9bbb7fe809ca880c9991b156vLorgZ1mypadmiLAflLqIzgnmQqYE2deppM3AJ3vOpNBf%2FwYMJdq8U1vToZ%2B8pQqftB5puWSsI9xLdpsw332njgBmw%2BcAj5f0HurH%2Bmk1c%3D&token=1616976565_7f97c15026980a574db70
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="FUTEBOL 21/04",21h30 Montevideo City X Bahia HD
+http://23.227.145.10:128/budTV/3232/1644_.m3u8?jc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="FUTEBOL 21/04",21h30 Rentistas X Racing Club HD
+http://50.7.34.90:8090/live/CONMEBOL_TV1_HD?key=00000000000&mode=1&params=cb11a17bd9bbb7fe809ca880c9991b156vLorgZ1mypadmiLAflLqIzgnmQqYE2deppM3AJ3vOpNBf%2FwYMJdq8U1vToZ%2B8pQqftB5puWSsI9xLdpsw332njgBmw%2BcAj5f0HurH%2Bmk1c%3D&token=1616976565_7f97c15026980a574db70
+
+
+
+#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SP HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",BAND SP HD
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",BAND HD
+https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/chunklist_w125191299.m3u8
+
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="CANAL RURAL HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",CANAL RURAL HD
+https://5fa18afd2e74c.streamlock.net:443/live/smil:canalrural.smil/chunklist_w1212668777_b1685000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",FUTURA HD
+https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO Rio HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",GLOBO RJ HD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO BELEM HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",GLOBO BELEM HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",GLOBO SP HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7842.ts
+
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="REDE BRASIL SD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS" ,REDE BRASIL SD
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1616166586.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDETV SP HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",REDETV SP HD
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDETV  PB HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",REDETV PB HD
+https://5b7f3c45ab7c2.streamlock.net:443/tvarapuan/ngrp:tvarapuan/chunklist_w787788772_b2595209_DVR.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDETV  RS HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",REDETV RS HD
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1525438033.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",RECORD SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV Rio HD" tvg-name="RECORD RJ HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",RECORD RJ HD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="RecordTV Minas HD" tvg-name="RECORD MG HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",RECORD MG HD
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="RecordTV Bahia" tvg-name="RECORDTV BAHIA HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",RECORD BA HD
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RECORD RS HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",RECORD RS HD
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Sbt" tvg-name="SBT SP HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",SBT SP HD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Sbt" tvg-name="SBT MA SD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",SBT MA SD
+https://5a1c76baf08c0.streamlock.net:443/z438-live/stream/chunklist_w1196303028.m3u8
+
+#EXTINF:-1 tvg-id="Sbt" tvg-name="SBT RECIFE HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",SBT RECIFE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8 
+
+#EXTINF:-1 tvg-id="TV Aracati" tvg-name="TV ARACATI SD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS" ,TV ARACATI SD
+https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV BRASIL HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",TV BRASIL HD
+https://tvbrasil-stream.ebc.com.br:443/STsEBCLIVE_720/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE VERDE (PI) HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",TV CIDADE VERDE PIAUÍ HD
+https://stmv1.transmissaodigital.com:443/cidadeverde/cidadeverde/chunklist_w451160105.m3u8
+
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV CULTURA SP HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",TV CULTURA SP HD
+https://streaming03.zas.media:443/tvfuturo/tvfuturo/chunklist_w1073489545.m3u8
+
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV CULTURA FHD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS",TV CULTURA FHD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
+
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS" ,TV CULTURA HD
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Camara" tvg-name="TV CÂMARA HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS" ,TV CÂMARA HD
+http://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CENTRO SUL (CE) SD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS" ,TV CENTRO SUL (CE) SD
+https://novo.bitstreaming.info:1936/tvcentrosultvstation/tvcentrosultvstation/chunklist_w908028520.m3u8
+
+#EXTINF:-1 tvg-id="TV Diario" tvg-name="TV DIÁRIO HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS" ,TV DIÁRIO HD
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZfhA4tbC-Lnlye5s-RjbNBk)/dm/3/x7txn7q/s/live-3.m3u8
+
+#EXTINF:-1 tvg-id="Gazeta" tvg-name="TV GAZETA SP HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS" ,TV GAZETA SP HD
+http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:-1 tvg-id="Gazeta" tvg-name="TV GAZETA MA HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS" ,TV GAZETA MA HD
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV SERRA VERDE SD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ABERTOS" ,TV SERRA VERDE SD
+https://stmv6.srvstm.com:443/leandro9908/leandro9908/chunklist_w475102862.m3u8
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS DOCUMENTÁRIOS",ANIMAL PLANET HD
+
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17068.ts
+
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH HD
+
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS DOCUMENTÁRIOS",DISCOVERY TURBO HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17065.ts
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS DOCUMENTÁRIOS",DISCOVERY WORLD HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17064.ts
+
+#EXTINF:-1 tvg-id="History" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS DOCUMENTÁRIOS",HISTORY CHANNEL HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7319.ts
+
+#EXTINF:-1 tvg-id="History 2" tvg-name="H2 HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS DOCUMENTÁRIOS",H2 HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17050.ts
+
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7347.ts
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS DOCUMENTÁRIOS",NAT GEO HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7342.ts
+
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS DOCUMENTÁRIOS",NAT GEO WILD HD
+
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ESPORTES",🇧🇷BAND SPORTS HD🇧🇷
+https://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ESPORTES",🇧🇷COMBATE HD🇧🇷
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17069.ts
+
+#EXTINF:-1 tvg-id="ConmebolTv" tvg-name="CONMEBOL TV HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ESPORTES",🇧🇷 CONMEBOL TV HD🇧🇷
+
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ESPORTES",🇧🇷ESPN BRASIL HD🇧🇷
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ESPORTES",🇧🇷ESPN HD🇧🇷
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ESPORTES",🇧🇷ESPN2 HD🇧🇷
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ESPORTES",🇧🇷ESPN EXTRA HD🇧🇷
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ESPORTES",🇧🇷FOX SPORTS HD🇧🇷
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17054.ts
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ESPORTES",🇧🇷FOX SPORTS 2 HD🇧🇷
+http://189.90.127.42/ALL-FOX-SPORT-2-HD/tracks-v1a1/mpegts
+
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="ESPORTES",🇧🇷FISH TV HD🇧🇷
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7924.ts
+
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ESPORTES",🇧🇷OFF HD🇧🇷
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17041.ts
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ESPORTES",🇧🇷PREMIERE CLUBES HD🇧🇷
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17035.ts
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ESPORTES",🇧🇷SPORTV HD🇧🇷
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17029.ts
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ESPORTES",🇧🇷SPORTV 2 HD🇧🇷
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17031.ts
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS ESPORTES",🇧🇷SPORTV 3 HD🇧🇷
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5317.ts
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",AMC HD
+
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",AXN HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5675.ts
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",A&E HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5673.ts
+
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",CANAL SONY HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7366.ts
+
+#EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",STAR CHANNEL HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5687.ts
+
+#EXTINF:-1 tvg-id="Star Hits.br" tvg-name="STAR HITS HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",STAR HITS HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17056.ts
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",FX HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17053.ts
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO2 HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",HBO2 HD
+http://172.96.172.111:2095/streams/187_.m3u8
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",HBO SIGNATURE HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17045.ts
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",HBO PLUS HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17046.ts
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",HBO FAMILY HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7350.ts
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",HBO HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5685.ts
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",HBO MUNDI HD
+
+
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",HBO POP HD
+
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",HBO XTREME HD
+
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",MEGAPIX HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17042.ts
+
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",PARAMOUNT CHANNEL HD
+https://nxplay-srv1.nxplay.com.br/PCBR_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",SPACE HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17032.ts
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",SYFY HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/8050.ts
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",STUDIO UNIVERSAL HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7922.ts
+
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",TBS HD
+
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",TELECINE ACTION HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17027.ts
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",TELECINE PREMIUM HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7322.ts
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",TELECINE PIPOCA HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17025.ts
+
+#EXTINF:- tvg-id="Tnt" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",TNT HD
+http://172.96.172.111:2095/streams/202_.m3u8
+
+#EXTINF:- tvg-id="Tnt Series" tvg-name="TNT SÉRIES HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",TNT SÉRIES HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7318.ts
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",UNIVERSAL CHANNEL HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17021.ts
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS FILMES/SÉRIES",WARNER CHANNEL HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17020.ts
+
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS INFANTIL",BOOMERANG HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7368.ts
+
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS INFANTIL",CARTOON NETWORK HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/8062.ts
+
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17533.ts
+
+#EXTINF:-1 tvg-id="DisneyChannel.br" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS INFANTIL", DISNEY CHANNEL HD
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS INFANTIL",DISNEY JR HD
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.br" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS INFANTIL", DISNEY XD HD
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS INFANTIL",NICK HD
+https://origin-02.nxplay.com.br/NICK_BR_HD_NX/tracks-v2a1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.br." tvg-name="NICK JR HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS INFANTIL",NICK JR HD
+https://origin-02.nxplay.com.br/NICK_JR_BR_HD_NXPLAY/tracks-v2a1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="Zoomoo" tvg-name="ZOOMOO HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS INFANTIL",ZOOMOO
+https://origin-02.nxplay.com.br/ZOOMOO_HD_NX/video.m3u8
+
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS MUSICA",MTV HD
+https://origin-02.nxplay.com.br/MTV_BR_NX/tracks-v1a1a2m2/mono.m3u8
+
+#EXTINF:-1 tvg-id="MusicBox.br" tvg-name="MULTISHOW FHD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS MUSICA",MULTISHOW FHD
+http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS NOTÍCIAS",BAND NEWS HD
+https://nxplay-srv1.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CNN.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS NOTÍCIAS",CNN BRASIL HD
+http://origin-02.nxplay.com.br/CNN_Brazil_HD_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS NOTÍCIAS",GLOBO NEWS HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7303.ts
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS NOTÍCIAS", RECORD NEWS HD
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="RaiNews.pt" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS NOTÍCIAS",RAI NEWS 24 IT
+https://rainews1-live.akamaized.net:443/hls/live/598326/rainews1/rainews1/../../../598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="TV EVANGELIZAR HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS RELIGIOSOS" ,TV EVANGELIZAR HD
+https://5f593df7851db.streamlock.net:443/evangelizar/tv/chunklist_w1362209305.m3u8
+
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="REDE VIDA HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS RELIGIOSOS" ,REDE VIDA HD
+https://cvd1.cds.ebtcvd.net:443/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS RELIGIOSOS" ,TV NOVO TEMPO HD
+https://stream.live.novotempo.com:443/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS RELIGIOSOS" ,TV NOVO TEMPO SD
+https://stream.live.novotempo.com:443/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
+
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS VARIEDADES",COMEDY CENTRAL HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17534.ts
+
+#EXTINF:-1 tvg-id="E!.br" tvg-name="E! HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS VARIEDADES",E! HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7359.ts
+
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS VARIEDADES",FOOD NETWORK HD
+
+
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS VARIEDADES",GNT HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17051.ts
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS VARIEDADES",LIFETIME HD
+http://172.96.172.111:2095/streams/169_.m3u8
+
+#EXTINF:-1 tvg-id="Loading" tvg-name="LOADING HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS VARIEDADES",LOADING HD
+
+
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS VARIEDADES" ,TLC HD
+
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://i.imgur.com/x6wa3rP.jpg" group-title="CANAIS VARIEDADES" ,VIVA HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7316.ts
